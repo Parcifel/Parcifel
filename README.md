@@ -27,7 +27,7 @@ Visit [my website](https://parcifel.github.io) for more.
 ## Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=parcifel&hide=prs,contribs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=330,00a1ff,00ff8f&rank_icon=github&custom_title=GitHub_Stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=parcifel&hide=prs,contribs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=330,8a00ff,bf00ff&rank_icon=github&custom_title=GitHub_Stats" />
 </a>
 #
 
