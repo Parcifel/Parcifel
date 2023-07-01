@@ -21,7 +21,7 @@ Visit [my website](https://parcifel.github.io) for more.
 <img align="left" alt="C++" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-#
+
 
 
 ## Stats:
@@ -29,7 +29,7 @@ Visit [my website](https://parcifel.github.io) for more.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=parcifel&hide=prs,contribs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=330,8a00ff,bf00ff&rank_icon=github&custom_title=GitHub_Stats" />
 </a>
-#
+
 
 
 ## Repositories:
