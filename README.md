@@ -19,11 +19,10 @@ Visit [my website](https://parcifel.github.io) for more.
 <img align="left" alt="Docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br>
+  
 
-
-
+  
 ## Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -36,6 +35,7 @@ Visit [my website](https://parcifel.github.io) for more.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=AJAX-CRUD-Flask-tables)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=parcifel.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=Arcade)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=test_runner)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <details>
