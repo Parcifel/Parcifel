@@ -33,9 +33,9 @@ Visit [my website](https://parcifel.github.io) for more.
 
 
 ## Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=AJAX-CRUD-Flask-tables)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=parcifel.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=Arcade)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=AJAX-CRUD-Flask-tables)](https://github.com/Parcifel/AJAX-CRUD-Flask-tables)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=parcifel.github.io)](https://github.com/Parcifel/parcifel.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=Arcade)](https://github.com/Parcifel/Arcade)
 
 ---
 <details>
