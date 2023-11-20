@@ -19,23 +19,23 @@ Visit [my website](https://parcifel.github.io) for more.
 <img align="left" alt="Docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-#
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br>
+  
 
-
+  
 ## Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=parcifel&hide=prs,contribs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=330,8a00ff,bf00ff&rank_icon=github&custom_title=GitHub_Stats" />
 </a>
-#
+
 
 
 ## Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=AJAX-CRUD-Flask-tables)](https://github.com/Parcifel/AJAX-CRUD-Flask-tables)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=parcifel.github.io)](https://github.com/Parcifel/parcifel.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=Arcade)](https://github.com/Parcifel/Arcade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=AJAX-CRUD-Flask-tables)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=parcifel.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=Arcade)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parcifel&repo=test_runner)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <details>
